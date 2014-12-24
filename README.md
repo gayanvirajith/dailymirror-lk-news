@@ -1,7 +1,6 @@
 # Dailymirror.lk News Cli
 
-### A command line tool to print out the latest news on 
-[Dailymirror.lk](http://www.dailymirror.lk/) to your terminal.
+### A command line tool to print out the latest news on [Dailymirror.lk](http://www.dailymirror.lk/) to your terminal.
 
 If you are spending a lot of time in the terminal & interested to fetch news 
 like a pro.
