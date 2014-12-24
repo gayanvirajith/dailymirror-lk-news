@@ -45,8 +45,10 @@ menu.add('EXIT');
 
 menu.on('select', function (label) {
     menu.close();
-    $selectedItem = label.replace(" ", "_").toLowerCase();    
-    initRequest(menuMap[$selectedItem]);
+    if (label != 'EXIT') {
+      $selectedItem = label.replace(" ", "_").toLowerCase();    
+      initRequest(menuMap[$selectedItem]);  
+    }    
 });
 menu.createStream().pipe(process.stdout);
 
