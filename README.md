@@ -17,10 +17,10 @@ Before installation you will need
     
 ##Usage
 
-To use dailymirror-lk-news type `dailymirror-lk-news` on your terminal or
+To use dailymirror-lk-news type `dmlk` on your terminal or
 command prompt:
 
-    dailymirror-lk-news    
+    dmlk    
     
 You will then be prompted a menu to select. Select a menu item & 
 wait few seconds (Be patient). A list of news items will be promted. 
