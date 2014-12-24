@@ -10,8 +10,8 @@ like a pro.
 
 ##Installation
 
-Before installation you will need node/npm installed.
-
+Before installation you will need [node](http://nodejs.org/)/
+[npm](https://npmjs.org/) installed.
 
     sudo npm install -g dailymirror-lk-news
     
