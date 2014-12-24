@@ -30,3 +30,5 @@ to your terminal session.
 ### Version history
 
 - 0.0.1 - A very much initial release.
+- 0.0.2 - Quick release.
+- 0.0.3 - Another quick release.
