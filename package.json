@@ -1,11 +1,11 @@
 {
-  "name": "menu-demo",
-  "version": "1.0.0",
-  "description": "Menu demo using terminal-menu",
+  "name": "dailymirror-lk-news",
+  "version": "0.0.1",
+  "description": "A command line tool to print out the latest news on dailymirror-lk to your terminal.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Gayan Virajith <gayanvirajith@gmail.com",
+  "license": "BSD-2-Clause"
 }
