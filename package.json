@@ -1,6 +1,6 @@
 {
   "name": "dailymirror-lk-news",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A command line tool to print out the latest news on dailymirror-lk to your terminal.",
   "main": "index.js",
   "scripts": {
