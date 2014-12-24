@@ -36,6 +36,7 @@ menu.reset();
 menu.write('Dailymirror.lk News Terminal\n');
 menu.write('-------------------------\n');
 
+// Draw menu items using `menuMap`
 for (var k in menuMap) {
   $menu_title = k.replace('_', " ")
   menu.add($menu_title.toUpperCase());
