@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "dmlk": "./index.js",    
+  },
   "author": "Gayan Virajith <gayanvirajith@gmail.com",
   "license": "BSD-2-Clause",
   "bugs": {
